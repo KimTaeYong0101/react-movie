@@ -1,3 +1,3 @@
-# Movie App 2019
+# React Movie App 
 
-React JS Fundamentals Course (2019 Update!)
+React JS Movie App
